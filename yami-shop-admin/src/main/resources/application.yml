@@ -1,7 +1,7 @@
 spring:
   # 环境 dev|test|prod quart定时任务
   profiles:
-    active: dev,quartz
+    active: prod,quartz
   #文件上传设置
   servlet:
     multipart:
